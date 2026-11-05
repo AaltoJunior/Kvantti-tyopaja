@@ -2,5 +2,5 @@ jupyterlab==4.6.4
 matplotlib
 numpy
 qiskit
-qskit_aer
+qiskit_aer
 sumpy
