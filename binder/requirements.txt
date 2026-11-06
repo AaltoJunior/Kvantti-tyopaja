@@ -3,4 +3,5 @@ matplotlib
 numpy
 qiskit
 qiskit_aer
-sumpy
+sympy
+ipywidgets
